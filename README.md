@@ -9,3 +9,4 @@ Personal portfolio site (graphic design, branding, UI/UX). Hosted via GitHub Pag
 - `contact.html` — contact
 - `projects/` — individual project case studies
 
+
