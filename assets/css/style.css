@@ -1,5 +1,13 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url('../fonts/inter-var.woff2') format('woff2');
+}
+
 body {
-    font-family: "proxima-nova", sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-style: normal;
     background: #111;
@@ -37,7 +45,7 @@ hr {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-family: "proxima-nova", sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-weight: 700;
     color: rgba(255, 255, 255, 0.7);
@@ -91,7 +99,7 @@ hr {
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #999;
-    font-family: "proxima-nova", sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 .section-title h2::after {
@@ -109,7 +117,7 @@ hr {
     font-size: 36px;
     font-weight: 700;
     text-transform: uppercase;
-    font-family: "proxima-nova", sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #fff;
 }
 
@@ -389,7 +397,7 @@ h3 {
 
 .portfolio-details {
     margin-top: 50px;
-    font-family: "proxima-nova", sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #fff;
     left: 0;
     right: 0;
@@ -494,7 +502,7 @@ p {
     border-color: #00a7e1;
     width: 150px;
     height: 60px;
-    font-family: "proxima-nova", sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: 500;
     font-size: 28px;
     margin-left: auto;
